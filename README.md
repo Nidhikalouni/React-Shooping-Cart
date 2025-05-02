@@ -1,12 +1,37 @@
-# React + Vite
+**React Shopping Cart App**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully functional e-commerce application built with React, featuring a shopping cart, product search, and filtering.
 
-Currently, two official plugins are available:
+**Features:**
+- Shopping Cart: Add products to your cart and view your cart contents.
+- Product Search: Search for products by name or description.
+- Product Filtering: Filter products by category or price.
+- Product Details: View detailed information about each product.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Components:**
+- Navbar: Navigation bar with search functionality and cart display.
+- Product: Product listing component with add to cart functionality.
+- ProductDetail: Product details component with related products.
+- SearchItem: Search results component.
+- Cart: Shopping cart component.
 
-## Expanding the ESLint configuration
+**Technologies Used:**
+- React: Front-end framework for building user interfaces.
+- React Router: Client-side routing library for React.
+- React Toastify: Library for displaying toast notifications.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+**Installation:**
+1. Clone the repository: git clone https://github.com/your-username/React-Shopping-Cart-App.git
+2. Install dependencies: npm install
+3. Start the application: npm start
+
+**Usage:**
+1. Navigate to the application in your web browser: http://localhost:3000
+2. Search for products using the search bar.
+3. Filter products by category or price.
+4. Add products to your cart.
+5. View your cart contents.
+
+**Contributing:**
+Contributions are welcome! Please fork the repository and submit a pull request with your changes.
+
