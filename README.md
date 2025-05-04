@@ -2,6 +2,9 @@
 
 A fully functional e-commerce application built with React, featuring a shopping cart, product search, and filtering.
 
+## 🚀 Live Demo
+https://react-shooping-cart.vercel.app/
+
 **Features:**
 - Shopping Cart: Add products to your cart and view your cart contents.
 - Product Search: Search for products by name or description.
